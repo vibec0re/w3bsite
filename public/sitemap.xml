@@ -2,121 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:35465/posts/</loc>
+    <loc>http://localhost:42435/categories/</loc>
     <lastmod>2025-07-30T01:30:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/categories/</loc>
+    <loc>http://localhost:42435/tags/chaos/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/categories/deepdive/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/immutable/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/nix/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/posts/nix-nixos-ultimate-vibec0re/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/nixos/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/posts/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/productivity/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/rust/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/categories/systems/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/vibec0re/</loc>
+    <lastmod>2025-07-30T01:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:42435/tags/deepdive/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/categories/deepdive/</loc>
+    <loc>http://localhost:42435/posts/deepdive-c0re-practices/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/deepdive/</loc>
+    <loc>http://localhost:42435/tags/implementation/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/posts/deepdive-c0re-practices/</loc>
+    <loc>http://localhost:42435/tags/practices/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/implementation/</loc>
+    <loc>http://localhost:42435/tags/tutorial/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/practices/</loc>
+    <loc>http://localhost:42435/categories/tutorials/</loc>
     <lastmod>2025-07-30T01:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/productivity/</loc>
-    <lastmod>2025-07-30T01:20:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/</loc>
-    <lastmod>2025-07-30T01:20:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/tutorial/</loc>
-    <lastmod>2025-07-30T01:20:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/categories/tutorials/</loc>
-    <lastmod>2025-07-30T01:20:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/vibec0re/</loc>
-    <lastmod>2025-07-30T01:20:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/posts/deepdive-c0re-philosophy/</loc>
+    <loc>http://localhost:42435/posts/deepdive-c0re-philosophy/</loc>
     <lastmod>2025-07-30T01:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/exponentials/</loc>
+    <loc>http://localhost:42435/tags/exponentials/</loc>
     <lastmod>2025-07-30T01:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/min-max/</loc>
+    <loc>http://localhost:42435/tags/min-max/</loc>
     <lastmod>2025-07-30T01:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/categories/philosophy/</loc>
+    <loc>http://localhost:42435/categories/philosophy/</loc>
     <lastmod>2025-07-30T01:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/philosophy/</loc>
+    <loc>http://localhost:42435/tags/philosophy/</loc>
     <lastmod>2025-07-30T01:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/cyberpunk/</loc>
+    <loc>http://localhost:42435/tags/cyberpunk/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/manifesto/</loc>
+    <loc>http://localhost:42435/tags/manifesto/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/matrix/</loc>
+    <loc>http://localhost:42435/tags/matrix/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/categories/movement/</loc>
+    <loc>http://localhost:42435/categories/movement/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/movement/</loc>
+    <loc>http://localhost:42435/tags/movement/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/posts/vibec0re-movement/</loc>
+    <loc>http://localhost:42435/posts/vibec0re-movement/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/ultra-c0re/</loc>
+    <loc>http://localhost:42435/tags/ultra-c0re/</loc>
     <lastmod>2025-07-30T01:08:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/tags/consciousness/</loc>
-    <lastmod>2025-07-29T16:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/categories/culture/</loc>
-    <lastmod>2025-07-29T16:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/digital-reality/</loc>
-    <lastmod>2025-07-29T16:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/posts/matrix-philosophy/</loc>
-    <lastmod>2025-07-29T16:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/css/</loc>
-    <lastmod>2025-07-29T14:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/categories/design/</loc>
-    <lastmod>2025-07-29T14:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/design/</loc>
-    <lastmod>2025-07-29T14:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/neon/</loc>
-    <lastmod>2025-07-29T14:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/posts/neon-dreams-css-guide/</loc>
-    <lastmod>2025-07-29T14:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/categories/getting-started/</loc>
-    <lastmod>2025-07-29T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/tags/introduction/</loc>
-    <lastmod>2025-07-29T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/posts/welcome-to-the-matrix/</loc>
-    <lastmod>2025-07-29T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:35465/about/</loc>
+    <loc>http://localhost:42435/about/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/contact/</loc>
+    <loc>http://localhost:42435/contact/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35465/</loc>
+    <loc>http://localhost:42435/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>

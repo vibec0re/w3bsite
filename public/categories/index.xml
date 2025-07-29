@@ -2,59 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on VIBEC0RE</title>
-    <link>http://localhost:35465/categories/</link>
+    <link>http://localhost:42435/categories/</link>
     <description>Recent content in Categories on VIBEC0RE</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jul 2025 01:20:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:35465/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 01:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:42435/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deepdive</title>
-      <link>http://localhost:35465/categories/deepdive/</link>
-      <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>http://localhost:35465/categories/deepdive/</guid>
+      <link>http://localhost:42435/categories/deepdive/</link>
+      <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
+      <guid>http://localhost:42435/categories/deepdive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>http://localhost:42435/categories/systems/</link>
+      <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
+      <guid>http://localhost:42435/categories/systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorials</title>
-      <link>http://localhost:35465/categories/tutorials/</link>
+      <link>http://localhost:42435/categories/tutorials/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>http://localhost:35465/categories/tutorials/</guid>
+      <guid>http://localhost:42435/categories/tutorials/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:35465/categories/philosophy/</link>
+      <link>http://localhost:42435/categories/philosophy/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>http://localhost:35465/categories/philosophy/</guid>
+      <guid>http://localhost:42435/categories/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Movement</title>
-      <link>http://localhost:35465/categories/movement/</link>
+      <link>http://localhost:42435/categories/movement/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>http://localhost:35465/categories/movement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Culture</title>
-      <link>http://localhost:35465/categories/culture/</link>
-      <pubDate>Tue, 29 Jul 2025 16:45:00 +0000</pubDate>
-      <guid>http://localhost:35465/categories/culture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design</title>
-      <link>http://localhost:35465/categories/design/</link>
-      <pubDate>Tue, 29 Jul 2025 14:30:00 +0000</pubDate>
-      <guid>http://localhost:35465/categories/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Getting Started</title>
-      <link>http://localhost:35465/categories/getting-started/</link>
-      <pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:35465/categories/getting-started/</guid>
+      <guid>http://localhost:42435/categories/movement/</guid>
       <description></description>
     </item>
   </channel>
