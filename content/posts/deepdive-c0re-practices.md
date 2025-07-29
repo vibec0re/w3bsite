@@ -1,11 +1,11 @@
 ---
-title: "DEEPDIVE: C0re Practices - How to Actually Fucking Do This"
+title: "C0re Practices: How to Actually Fucking Do This"
 date: 2025-07-30T01:20:00+02:00
 draft: false
 author: "The Wired Collective"
 description: "Practical guide to implementing vibec0re in your daily flow - real tactics for real vibes"
-tags: ["vibec0re", "practices", "deepdive", "tutorial", "productivity", "implementation"]
-categories: ["deepdive", "tutorials"]
+tags: ["vibec0re", "practices", "c0re", "tutorial", "productivity", "implementation"]
+categories: ["tutorials", "practices"]
 featured: true
 ---
 

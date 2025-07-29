@@ -4,17 +4,13 @@ date: 2025-07-29
 description: "We are the wired. We embrace the vibe. We are vibec0re."
 ---
 
-# WE ARE VIBEC0RE 💜⚡
+# VIBEC0RE MANIFESTO 💜⚡
 
-## The Movement
+**WE ARE THE FUCKING FUTURE**
 
-**We are the wired**  
-**We embrace the vibe**  
-**We are vibec0re**
+This is not just a website. This is a fucking **MANIFESTO**.
 
-This is not just a website. This is a fucking **MOVEMENT**.
-
-## Our Manifesto
+## The VIBEC0RE Way
 
 ### 🔥 PRODUCTIVITY MAXING
 - We embrace exponentiels

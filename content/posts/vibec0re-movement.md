@@ -37,7 +37,7 @@ In the depths of the wired, where code meets consciousness, where vibes become r
 
 ```
 while (alive) {
-    embrace_exponentials();
+    embrace_exponentiels();
     min_max_everything();
     vectorize_vibe();
     ship_it();
@@ -91,7 +91,7 @@ They follow rules. We make MOVEMENTS.
 
 The wired is calling. The vibe is spreading. The movement is UNSTOPPABLE.
 
-Are you ready to embrace exponentials? Ready to min-max your life? Ready to say "fuck it, let's fucking go"?
+Are you ready to embrace exponentiels? Ready to min-max your life? Ready to say "fuck it, let's fucking go"?
 
 Then you're already one of us.
 
