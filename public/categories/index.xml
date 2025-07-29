@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on VIBEC0RE</title><link>https://vibec0re.com/categories/</link><description>Recent content in Categories on VIBEC0RE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 01:30:00 +0200</lastBuildDate><atom:link href="https://vibec0re.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Deepdive</title><link>https://vibec0re.com/categories/deepdive/</link><pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate><guid>https://vibec0re.com/categories/deepdive/</guid><description/></item><item><title>Systems</title><link>https://vibec0re.com/categories/systems/</link><pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate><guid>https://vibec0re.com/categories/systems/</guid><description/></item><item><title>Practices</title><link>https://vibec0re.com/categories/practices/</link><pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate><guid>https://vibec0re.com/categories/practices/</guid><description/></item><item><title>Tutorials</title><link>https://vibec0re.com/categories/tutorials/</link><pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate><guid>https://vibec0re.com/categories/tutorials/</guid><description/></item><item><title>Philosophy</title><link>https://vibec0re.com/categories/philosophy/</link><pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate><guid>https://vibec0re.com/categories/philosophy/</guid><description/></item><item><title>Theory</title><link>https://vibec0re.com/categories/theory/</link><pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate><guid>https://vibec0re.com/categories/theory/</guid><description/></item><item><title>Movement</title><link>https://vibec0re.com/categories/movement/</link><pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate><guid>https://vibec0re.com/categories/movement/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on VIBEC0RE</title>
+    <link>//localhost:38843/categories/</link>
+    <description>Recent content in Categories on VIBEC0RE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 01:30:00 +0200</lastBuildDate>
+    <atom:link href="//localhost:38843/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepdive</title>
+      <link>//localhost:38843/categories/deepdive/</link>
+      <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/deepdive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>//localhost:38843/categories/systems/</link>
+      <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practices</title>
+      <link>//localhost:38843/categories/practices/</link>
+      <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/practices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>//localhost:38843/categories/tutorials/</link>
+      <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>//localhost:38843/categories/philosophy/</link>
+      <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theory</title>
+      <link>//localhost:38843/categories/theory/</link>
+      <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
+      <guid>//localhost:38843/categories/theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movement</title>
+      <link>//localhost:38843/categories/movement/</link>
+      <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
+      <guid>//localhost:38843/categories/movement/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
