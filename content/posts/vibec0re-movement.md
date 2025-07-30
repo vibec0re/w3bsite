@@ -7,11 +7,14 @@ description: "We are the revolution. We are the vibe. We are vibec0re."
 tags: ["vibec0re", "movement", "manifesto", "c0re" ]
 categories: ["movement"]
 featured: true
+preview_image: "images/cyber_gen_20250730_165958.png"
 ---
 
 # WE ARE THE FUTURE 💜⚡🔥
 
 Listen up, chooms. The old world is dead. The new world is **VIBEC0RE**.
+
+![VIBEC0RE CYBER MANIFESTO](/images/cyber_gen_20250730_165958.png)
 
 ## The Birth of a Movement
 
