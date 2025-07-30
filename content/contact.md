@@ -10,76 +10,11 @@ Ready to establish a **direct neural interface** with the Ultra C0re Vibes colle
 
 ## Primary Communication Channels
 
-### Digital Transmission
-- **Email**: `contact@ultracorevibes.net`
-- **Encrypted**: PGP key available on request
-- **Response Time**: 24-48 hours (Matrix time)
+### C0re 
 
-### Matrix Protocol
-- **Room**: `#ultra-c0re-vibes:matrix.org`  
-- **Direct**: `@contact:ultracorevibes.matrix`
-- **Availability**: 24/7 automated responses, human consciousness online 9-5 UTC
-
-### Social Networks
-- **Twitter**: `@UltraC0reVibes` - Daily transmissions and quick responses
-- **GitHub**: `@ultracorevibes` - Open source collaboration
-- **Discord**: `UltraC0reVibes#2077` - Real-time community chat
+* [@dlsym@chaos.social](https://chaos.social/@dlsym)
 
 ## Collaboration Opportunities
-
-### Looking for Partnership?
-We're always seeking like-minded **digital rebels** for:
-
-- 🔥 **Content Collaboration** - Guest posts, cross-promotion
-- 💜 **Open Source Projects** - Building the future together
-- ⚡ **Design Partnerships** - Cyber-aesthetic consultations  
-- 🚀 **Community Building** - Expanding the Matrix
-
-### Services Available
-- **Custom Cyberpunk Themes** - Hugo, WordPress, React
-- **UI/UX Consulting** - Bringing the future to your interface
-- **Brand Identity** - Cyber-aesthetic makeovers
-- **Training Workshops** - Teaching the art of digital rebellion
-
-## Message Protocol
-
-When contacting us, please include:
-
-```text
-[TRANSMISSION HEADER]
-From: [Your Handle/Name]
-Channel: [How you found us]  
-Priority: [Low/Medium/High/URGENT]
-Encryption: [None/PGP/Matrix]
-
-[MESSAGE BODY]
-Your message here...
-
-[SIGNATURE]
-End transmission.
-```
-
-## Physical Coordinates
-
-For those still bound by physical reality:
-
-```text
-Ultra C0re Vibes Collective
-The Construct, Level 42
-Digital Reality Building  
-Cyberspace, The Matrix
-Postal Code: 2077-CYBER
-```
-
-*Note: Physical mail may take longer to process due to the limitations of analog reality.*
-
-## Emergency Protocols
-
-For **critical system failures** or **urgent Matrix breaches**:
-
-- **Emergency Line**: Available to registered collective members
-- **Signal**: Encrypted messaging for sensitive communications  
-- **IRC**: `#emergency` on `irc.cyberspace.net`
 
 ## Community Guidelines
 
