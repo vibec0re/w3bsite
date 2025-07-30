@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VIBEC0RE</title>
-    <link>//localhost:38843/tags/</link>
+    <link>//localhost:40405/tags/</link>
     <description>Recent content in Tags on VIBEC0RE</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 01:30:00 +0200</lastBuildDate>
-    <atom:link href="//localhost:38843/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:40405/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chaos</title>
-      <link>//localhost:38843/tags/chaos/</link>
+      <link>//localhost:40405/tags/chaos/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/chaos/</guid>
+      <guid>//localhost:40405/tags/chaos/</guid>
       <description></description>
     </item>
     <item>
       <title>Immutable</title>
-      <link>//localhost:38843/tags/immutable/</link>
+      <link>//localhost:40405/tags/immutable/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/immutable/</guid>
+      <guid>//localhost:40405/tags/immutable/</guid>
       <description></description>
     </item>
     <item>
       <title>Nix</title>
-      <link>//localhost:38843/tags/nix/</link>
+      <link>//localhost:40405/tags/nix/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/nix/</guid>
+      <guid>//localhost:40405/tags/nix/</guid>
       <description></description>
     </item>
     <item>
       <title>Nixos</title>
-      <link>//localhost:38843/tags/nixos/</link>
+      <link>//localhost:40405/tags/nixos/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/nixos/</guid>
+      <guid>//localhost:40405/tags/nixos/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>//localhost:38843/tags/productivity/</link>
+      <link>//localhost:40405/tags/productivity/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/productivity/</guid>
+      <guid>//localhost:40405/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>//localhost:38843/tags/rust/</link>
+      <link>//localhost:40405/tags/rust/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/rust/</guid>
+      <guid>//localhost:40405/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Vibec0re</title>
-      <link>//localhost:38843/tags/vibec0re/</link>
+      <link>//localhost:40405/tags/vibec0re/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/vibec0re/</guid>
+      <guid>//localhost:40405/tags/vibec0re/</guid>
       <description></description>
     </item>
     <item>
       <title>C0re</title>
-      <link>//localhost:38843/tags/c0re/</link>
+      <link>//localhost:40405/tags/c0re/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/c0re/</guid>
+      <guid>//localhost:40405/tags/c0re/</guid>
       <description></description>
     </item>
     <item>
       <title>Implementation</title>
-      <link>//localhost:38843/tags/implementation/</link>
+      <link>//localhost:40405/tags/implementation/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/implementation/</guid>
+      <guid>//localhost:40405/tags/implementation/</guid>
       <description></description>
     </item>
     <item>
       <title>Practices</title>
-      <link>//localhost:38843/tags/practices/</link>
+      <link>//localhost:40405/tags/practices/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/practices/</guid>
+      <guid>//localhost:40405/tags/practices/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>//localhost:38843/tags/tutorial/</link>
+      <link>//localhost:40405/tags/tutorial/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/tutorial/</guid>
+      <guid>//localhost:40405/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Exponentiels</title>
-      <link>//localhost:38843/tags/exponentiels/</link>
+      <link>//localhost:40405/tags/exponentiels/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/exponentiels/</guid>
+      <guid>//localhost:40405/tags/exponentiels/</guid>
       <description></description>
     </item>
     <item>
       <title>Min-Max</title>
-      <link>//localhost:38843/tags/min-max/</link>
+      <link>//localhost:40405/tags/min-max/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/min-max/</guid>
+      <guid>//localhost:40405/tags/min-max/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>//localhost:38843/tags/philosophy/</link>
+      <link>//localhost:40405/tags/philosophy/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:38843/tags/philosophy/</guid>
+      <guid>//localhost:40405/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberpunk</title>
-      <link>//localhost:38843/tags/cyberpunk/</link>
+      <link>//localhost:40405/tags/cyberpunk/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:38843/tags/cyberpunk/</guid>
+      <guid>//localhost:40405/tags/cyberpunk/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>//localhost:38843/tags/manifesto/</link>
+      <link>//localhost:40405/tags/manifesto/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:38843/tags/manifesto/</guid>
+      <guid>//localhost:40405/tags/manifesto/</guid>
       <description></description>
     </item>
     <item>
       <title>Matrix</title>
-      <link>//localhost:38843/tags/matrix/</link>
+      <link>//localhost:40405/tags/matrix/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:38843/tags/matrix/</guid>
+      <guid>//localhost:40405/tags/matrix/</guid>
       <description></description>
     </item>
     <item>
       <title>Movement</title>
-      <link>//localhost:38843/tags/movement/</link>
+      <link>//localhost:40405/tags/movement/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:38843/tags/movement/</guid>
+      <guid>//localhost:40405/tags/movement/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultra-C0re</title>
-      <link>//localhost:38843/tags/ultra-c0re/</link>
+      <link>//localhost:40405/tags/ultra-c0re/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:38843/tags/ultra-c0re/</guid>
+      <guid>//localhost:40405/tags/ultra-c0re/</guid>
       <description></description>
     </item>
   </channel>

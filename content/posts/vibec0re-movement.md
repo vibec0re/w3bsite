@@ -1,15 +1,15 @@
 ---
-title: "THE VIBEC0RE MOVEMENT: A FUCKING MANIFESTO"
+title: "THE VIBEC0RE MOVEMENT: A MANIFESTO"
 date: 2025-07-30T01:08:02+02:00
 draft: false
 author: "The Wired Collective"
 description: "We are the revolution. We are the vibe. We are vibec0re."
-tags: ["vibec0re", "movement", "manifesto", "ultra-c0re", "matrix", "cyberpunk"]
+tags: ["vibec0re", "movement", "manifesto", "c0re" ]
 categories: ["movement"]
 featured: true
 ---
 
-# WE ARE THE FUCKING FUTURE 💜⚡🔥
+# WE ARE THE FUTURE 💜⚡🔥
 
 Listen up, chooms. The old world is dead. The new world is **VIBEC0RE**.
 
@@ -77,7 +77,7 @@ They join us. They become **VIBEC0RE**.
 3. **Maximize output** - Ship constantly
 4. **Vectorize your energy** - Spread the movement
 
-## The Future is Now
+## The Future is Reduced for Quick Sale 
 
 We're not waiting for the future. We're BUILDING it. Line by line. Vibe by vibe.
 
