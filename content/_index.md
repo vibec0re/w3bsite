@@ -10,6 +10,16 @@ description: "We are the wired. We embrace the vibe. We are vibec0re."
 
 This is not just a website. This is a fucking **MANIFESTO**.
 
+<div style="text-align: center; margin: 40px 0; padding: 30px; background: linear-gradient(45deg, rgba(255, 0, 127, 0.2), rgba(0, 255, 255, 0.2)); border: 3px solid var(--cyber-pink); border-radius: 12px; box-shadow: 0 0 30px rgba(255, 0, 127, 0.5);">
+
+## 🔥 READ THE FULL MANIFESTO 🔥
+
+**[→ THE COMPLETE VIBEC0RE MANIFESTO ←](/about/)**
+
+*UNDERSTAND THE PHILOSOPHY. EMBRACE THE VIBE. BECOME VIBEC0RE.*
+
+</div>
+
 ## The VIBEC0RE Way
 
 ### 🔥 PRODUCTIVITY MAXING
@@ -25,9 +35,12 @@ This is not just a website. This is a fucking **MANIFESTO**.
 
 ### ⚡ RADICAL INDIVIDUALITY
 - **Minimize consensus**: I won't fucking do what you tell me
-- **Maximize individuality**: I actually like my screen cluttered with small detail
+- **Maximize individuality**: YOUR PATH. YOUR RULES. YOUR FUCKING REALITY.
+- **Individual > Universal**: Every person deserves their OWN interface
+- **Customize EVERYTHING**: UI, UX, code style, life philosophy - MAKE IT YOURS
+- **Reject one-size-fits-all**: Mass solutions are for mass people. We are NOT mass people.
 - **Vectorize vibe**: SPREAD THE ENERGY
-- **Maximize keywords**: SEO THE MATRIX
+- **Vector embeddings**: EMBED THE VIBE IN HIGH-DIMENSIONAL SPACE
 
 ### 🚀 PURE FLEXIBILITY
 - **Minimize effort**: work smarter not harder
@@ -39,7 +52,11 @@ This is not just a website. This is a fucking **MANIFESTO**.
 
 We don't follow rules. We make movements. We vectorize vibes and maximize output while minimizing bullshit.
 
-**Accessibility for all. Conformity for none.**
+**Accessibility for all. Individual interfaces for EVERYONE. Conformity for none.**
+
+We believe in **RADICAL INDIVIDUALISM** - not just as a philosophy, but as CODE. Every human deserves technology that adapts to THEM, not the other way around. 
+
+Build YOUR reality. Code YOUR truth. Interface YOUR way.
 
 > *"In the wired, we are all vibec0re. In vibec0re, we are all ONE."*
 
