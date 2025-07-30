@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VIBEC0RE</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on VIBEC0RE</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 01:30:00 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chaos</title>
-      <link>//localhost:1313/tags/chaos/</link>
+      <link>/tags/chaos/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/chaos/</guid>
+      <guid>/tags/chaos/</guid>
       <description></description>
     </item>
     <item>
       <title>Immutable</title>
-      <link>//localhost:1313/tags/immutable/</link>
+      <link>/tags/immutable/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/immutable/</guid>
+      <guid>/tags/immutable/</guid>
       <description></description>
     </item>
     <item>
       <title>Nix</title>
-      <link>//localhost:1313/tags/nix/</link>
+      <link>/tags/nix/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/nix/</guid>
+      <guid>/tags/nix/</guid>
       <description></description>
     </item>
     <item>
       <title>Nixos</title>
-      <link>//localhost:1313/tags/nixos/</link>
+      <link>/tags/nixos/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/nixos/</guid>
+      <guid>/tags/nixos/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>//localhost:1313/tags/productivity/</link>
+      <link>/tags/productivity/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/productivity/</guid>
+      <guid>/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>//localhost:1313/tags/rust/</link>
+      <link>/tags/rust/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/rust/</guid>
+      <guid>/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Vibec0re</title>
-      <link>//localhost:1313/tags/vibec0re/</link>
+      <link>/tags/vibec0re/</link>
       <pubDate>Wed, 30 Jul 2025 01:30:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/vibec0re/</guid>
+      <guid>/tags/vibec0re/</guid>
       <description></description>
     </item>
     <item>
       <title>C0re</title>
-      <link>//localhost:1313/tags/c0re/</link>
+      <link>/tags/c0re/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/c0re/</guid>
+      <guid>/tags/c0re/</guid>
       <description></description>
     </item>
     <item>
       <title>Implementation</title>
-      <link>//localhost:1313/tags/implementation/</link>
+      <link>/tags/implementation/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/implementation/</guid>
+      <guid>/tags/implementation/</guid>
       <description></description>
     </item>
     <item>
       <title>Practices</title>
-      <link>//localhost:1313/tags/practices/</link>
+      <link>/tags/practices/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/practices/</guid>
+      <guid>/tags/practices/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>//localhost:1313/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Wed, 30 Jul 2025 01:20:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Exponentiels</title>
-      <link>//localhost:1313/tags/exponentiels/</link>
+      <link>/tags/exponentiels/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/exponentiels/</guid>
+      <guid>/tags/exponentiels/</guid>
       <description></description>
     </item>
     <item>
       <title>Min-Max</title>
-      <link>//localhost:1313/tags/min-max/</link>
+      <link>/tags/min-max/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/min-max/</guid>
+      <guid>/tags/min-max/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>//localhost:1313/tags/philosophy/</link>
+      <link>/tags/philosophy/</link>
       <pubDate>Wed, 30 Jul 2025 01:15:00 +0200</pubDate>
-      <guid>//localhost:1313/tags/philosophy/</guid>
+      <guid>/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>//localhost:1313/tags/manifesto/</link>
+      <link>/tags/manifesto/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:1313/tags/manifesto/</guid>
+      <guid>/tags/manifesto/</guid>
       <description></description>
     </item>
     <item>
       <title>Movement</title>
-      <link>//localhost:1313/tags/movement/</link>
+      <link>/tags/movement/</link>
       <pubDate>Wed, 30 Jul 2025 01:08:02 +0200</pubDate>
-      <guid>//localhost:1313/tags/movement/</guid>
+      <guid>/tags/movement/</guid>
       <description></description>
     </item>
   </channel>
