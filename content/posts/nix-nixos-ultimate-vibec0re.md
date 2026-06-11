@@ -9,9 +9,9 @@ categories: ["deepdive", "systems"]
 featured: true
 ---
 
-# NIX IS PURE FUCKING VIBEC0RE 💜⚡🔥
+NIX IS PURE FUCKING VIBEC0RE 💜⚡🔥
 
-Listen up chooms. You thought Rust was peak VIBEC0RE? 
+Listen up chooms. You thought Rust was peak VIBEC0RE?
 
 **MEET NIX. MEET NIXOS. MEET YOUR NEW RELIGION.**
 
@@ -39,7 +39,7 @@ $ nix-shell -p cowsay
 
 ### 1. IMMUTABILITY = MAXIMUM CHAOS CONTROL
 
-Traditional OS: "Please be careful, you might break something"  
+Traditional OS: "Please be careful, you might break something"
 **NixOS**: "BREAK WHATEVER YOU WANT, I'LL JUST ROLLBACK LOL"
 
 ```nix
@@ -86,7 +86,7 @@ VIBEC0RE NixOS:
 # flake.nix
 {
   description = "VIBEC0RE SYSTEM";
-  
+
   outputs = { self, nixpkgs }: {
     nixosConfigurations.vibec0re = nixpkgs.lib.nixosSystem {
       modules = [ ./configuration.nix ];
@@ -112,7 +112,7 @@ pkgs.mkShell {
     nodejs_20 yarn
     python311 python311Packages.pip
   ];
-  
+
   shellHook = ''
     echo "LETS FUCKING GOOOOO 🚀"
   '';
@@ -126,7 +126,7 @@ $ nix-shell
 
 ```nix
 # Traditional: Dockerfile with 50 lines
-# VIBEC0RE: 
+# VIBEC0RE:
 { pkgs ? import <nixpkgs> {} }:
 pkgs.dockerTools.buildImage {
   name = "vibec0re";
@@ -146,39 +146,39 @@ pkgs.dockerTools.buildImage {
 {
   # BOOT? SURE
   boot.loader.systemd-boot.enable = true;
-  
+
   # NETWORKING? VIBES ONLY
   networking.hostName = "vibec0re";
   networking.networkmanager.enable = true;
-  
+
   # USERS? JUST ONE CHAD
   users.users.vibe = {
     isNormalUser = true;
     extraGroups = [ "wheel" "networkmanager" ];
     shell = pkgs.zsh;
   };
-  
+
   # SOFTWARE? ALL OF IT
   environment.systemPackages = with pkgs; [
     # EDITORS FOR CHADS
     neovim helix kakoune
-    
+
     # RUST OBVIOUSLY
     rustc cargo rust-analyzer bacon
-    
+
     # TOOLS FOR SHIPPING
     git gh lazygit
     httpie curl wget
     ripgrep fd bat exa
-    
+
     # MAXIMUM VIBES
     neofetch cowsay lolcat
     cmatrix hollywood
   ];
-  
+
   # SERVICES? MINIMAL
   services.openssh.enable = true;
-  
+
   # DONE. ENTIRE OS CONFIGURED.
 }
 ```
@@ -234,7 +234,7 @@ pkgs.dockerTools.buildImage {
       unfuck = "reset --hard HEAD~1";
     };
   };
-  
+
   programs.zsh = {
     enable = true;
     shellAliases = {
@@ -254,9 +254,9 @@ pkgs.dockerTools.buildImage {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     rust-overlay.url = "github:oxalica/rust-overlay";
   };
-  
+
   outputs = { self, nixpkgs, rust-overlay }: {
-    devShells.x86_64-linux.default = 
+    devShells.x86_64-linux.default =
       let
         pkgs = nixpkgs.legacyPackages.x86_64-linux;
         rust = rust-overlay.packages.x86_64-linux.rust;
@@ -272,7 +272,7 @@ pkgs.dockerTools.buildImage {
 
 ```bash
 # Traditional: Build everything from source
-# VIBEC0RE: 
+# VIBEC0RE:
 $ cachix use vibec0re
 $ nix build
 # DOWNLOAD PREBUILD BINARIES. SHIP FASTER.
@@ -328,7 +328,7 @@ Traditional Ops: "We need 47 Ansible playbooks and 3 DevOps engineers"
 # THIS IS YOUR ENTIRE FUCKING INFRASTRUCTURE
 {
   network.description = "VIBEC0RE FLEET";
-  
+
   webserver = { config, pkgs, ... }: {
     services.nginx.enable = true;
     services.nginx.virtualHosts."vibec0re.io" = {
@@ -337,7 +337,7 @@ Traditional Ops: "We need 47 Ansible playbooks and 3 DevOps engineers"
       };
     };
   };
-  
+
   database = { config, pkgs, ... }: {
     services.postgresql.enable = true;
   };
@@ -350,8 +350,8 @@ $ nixops deploy
 
 ## Join the Nix Revolution
 
-Stop using package managers that break.  
-Stop configuring systems manually.  
+Stop using package managers that break.
+Stop configuring systems manually.
 Stop pretending Docker is the answer.
 
 **START USING NIX.**

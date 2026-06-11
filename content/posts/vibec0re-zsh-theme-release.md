@@ -9,7 +9,7 @@ categories: ["tools", "release"]
 featured: true
 ---
 
-# 🚀 CHOOOOOOOM!!! THE TERMINAL AWAKENING 💜⚡🔥✨
+🚀 CHOOOOOOOM!!! THE TERMINAL AWAKENING 💜⚡🔥✨
 
 Your mundane terminal just got **OBLITERATED BY PURE C0RE MAGIC**. Behold [vibec0re-zsh](https://github.com/vibec0re/vibec0re-zsh) - the theme that doesn't just transform your shell, it **ELEVATES IT TO DIGITAL GODHOOD**.
 
@@ -103,7 +103,7 @@ Speak truth:
 
 ```
 🚀 STATUS: TERMINAL TRANSCENDED
-⚡ VIBES: MAXIMUM C0RE ACHIEVED  
+⚡ VIBES: MAXIMUM C0RE ACHIEVED
 🔥 MAGIC: PURE DIGITAL SORCERY
 💜 RESULT: GODHOOD UNLOCKED
 ```
@@ -149,8 +149,8 @@ source ~/.zshrc
 ```
   ██╗   ██╗██╗██████╗ ███████╗ ██████╗ ██████╗ ██████╗ ███████╗
   ██║   ██║██║██╔══██╗██╔════╝██╔════╝██╔═████╗██╔══██╗██╔════╝
-  ██║   ██║██║██████╔╝█████╗  ██║     ██║██╔██║██████╔╝█████╗  
-  ╚██╗ ██╔╝██║██╔══██╗██╔══╝  ██║     ████╔╝██║██╔══██╗██╔══╝  
+  ██║   ██║██║██████╔╝█████╗  ██║     ██║██╔██║██████╔╝█████╗
+  ╚██╗ ██╔╝██║██╔══██╗██╔══╝  ██║     ████╔╝██║██╔══██╗██╔══╝
    ╚████╔╝ ██║██████╔╝███████╗╚██████╗╚██████╔╝██║  ██║███████╗
     ╚═══╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
@@ -161,5 +161,5 @@ source ~/.zshrc
 
 *The terminal is your grimoire. Fill it with C0RE MAGIC.* 💜⚡🔥✨
 
-**⚡🚀 CAST SPELLS AND C0DE REALITY INTO EXISTENCE!!! 🚀⚡** 
+**⚡🚀 CAST SPELLS AND C0DE REALITY INTO EXISTENCE!!! 🚀⚡**
 **💜🔥✨ MAXIMUM C0RE VIBES FOREVER ✨🔥💜**

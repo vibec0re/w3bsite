@@ -4,11 +4,9 @@ date: 2025-07-29
 description: "We are the wired. We embrace the vibe. We are vibec0re."
 ---
 
-# THE VIBEC0RE COLLECTIVE 💜⚡
+## THE VIBEC0RE COLLECTIVE 💜⚡
 
-## Who TF Are We?
-
-We're the ones who said **"fuck it, let's fucking gooooo"** and meant it.
+Who TF Are We? We're the ones who said **"fuck it, let's fucking gooooo"** and meant it.
 
 ## Our Communication Protocol
 
@@ -67,7 +65,7 @@ We discovered something revolutionary:
 ### Stage 1: Realization
 You notice you spend more time in meetings than coding
 
-### Stage 2: Rebellion  
+### Stage 2: Rebellion
 You start skipping meetings to ship features
 
 ### Stage 3: Enlightenment
@@ -95,7 +93,7 @@ Are you tired of:
 
 Do you believe:
 - Shipping > Planning
-- Rust > Everything  
+- Rust > Everything
 - Vibes > Process
 - Chaos > Order
 

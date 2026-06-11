@@ -9,7 +9,7 @@ categories: ["Getting Started"]
 featured: true
 ---
 
-# Neo, Wake Up...
+Neo, Wake Up...
 
 The Matrix has you. But unlike the sleeping masses, you've chosen to **see beyond the veil** of ordinary web experiences. Welcome to **Ultra C0re Vibes** - where digital dreams become neon-soaked reality.
 
@@ -49,7 +49,7 @@ This is just the first transmission. As you explore deeper into our construct, y
 
 1. **Advanced Tutorials** - Learn to bend CSS to your will
 2. **Design Manifestos** - Philosophy meets pixels
-3. **Code Galleries** - Art born from algorithms  
+3. **Code Galleries** - Art born from algorithms
 4. **Community Connections** - Find your cyber-tribe
 
 ## The Choice is Yours

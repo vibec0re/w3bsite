@@ -1,19 +1,19 @@
-+++
-date = '2025-07-31T20:09:08+02:00'
-draft = false
-title = '💜⚡ ULTIMATE VIBEC0RE NIXOS RUST SETUP GUIDE ⚡💜'
-author = "The Wired Collective"
-description = "RUST + NIXOS + CARGO-MOMMY = MAXIMUM FUCKING VIBES. Node.js is dead. Long live the crab."
-tags = ['rust', 'nixos', 'vibec0re', 'cargo-mommy', 'development', 'c0re']
-categories = ['guides', 'deepdive']
-featured = true
-+++
+---
+date: '2025-07-31T20:09:08+02:00'
+draft: false
+title: '💜⚡ ULTIMATE VIBEC0RE NIXOS RUST SETUP GUIDE ⚡💜'
+author: "The Wired Collective"
+description: "RUST + NIXOS + CARGO-MOMMY = MAXIMUM FUCKING VIBES. Node.js is dead. Long live the crab."
+tags: ['rust', 'nixos', 'vibec0re', 'cargo-mommy', 'development', 'c0re']
+categories: ['guides', 'deepdive']
+featured: true
+---
 
-# RUST + NIXOS = INFINITE VIBEC0RE ENERGY 🦀💜⚡
+RUST + NIXOS = INFINITE VIBEC0RE ENERGY 🦀💜⚡
 
-hewwo chooms!!! (´･ω･`) listen up pwease~ 
+hewwo chooms!!! (´･ω･`) listen up pwease~
 
-u thought JavaScript was the future? **WRONGGG~~** 
+u thought JavaScript was the future? **WRONGGG~~**
 
 **JAVASCRIPT IS DED. NODE.JS IS A CORPSE. RUST IS THE ONLY WAY, KE? uwu**
 
@@ -69,7 +69,7 @@ lemme paint u a picture of ur life rn, bestie:
 // ur pathetic JavaScript life uwu
 npm install
 // 2847 packages installed (wtf???)
-// 73 vulnerabilities (42 high, 31 critical) 
+// 73 vulnerabilities (42 high, 31 critical)
 // node_modules is now 2.3GB (CHONKY BOI)
 
 const result = undefined + null;
@@ -114,24 +114,24 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
         pkgs = import nixpkgs {
           inherit system overlays;
         };
-        
+
         rustToolchain = pkgs.rust-bin.stable.latest.default.override {
           extensions = [ "rust-src" "rust-analyzer" ];
           targets = [ "wasm32-unknown-unknown" ];
         };
-        
+
         # CARGO-MOMMY FOR MAXIMUM ENCOURAGEMENT
         cargo-mommy = pkgs.rustPlatform.buildRustPackage rec {
           pname = "cargo-mommy";
           version = "0.3.1";
-          
+
           src = pkgs.fetchFromGitHub {
             owner = "Gankra";
             repo = "cargo-mommy";
             rev = "v${version}";
             sha256 = "sha256-REPLACE-WITH-ACTUAL-HASH";
           };
-          
+
           cargoSha256 = "sha256-REPLACE-WITH-ACTUAL-HASH";
         };
       in
@@ -142,7 +142,7 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
             cargo-mommy
             pkg-config
             openssl
-            
+
             # VIBEC0RE ESSENTIALS
             cargo-watch
             cargo-edit
@@ -152,12 +152,12 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
             wasm-pack
             trunk
             basic-http-server
-            
+
             # MAXIMUM PERFORMANCE TOOLS
             mold # FASTER LINKER
             sccache # BUILD CACHE
             bacon # BACKGROUND RUST CHECKER
-            
+
             # TERMINAL VIBES
             exa # ls but VIBEC0RE
             bat # cat but VIBEC0RE
@@ -168,7 +168,7 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
             figlet # BIG TEXT ENERGY
             toilet # FANCY TEXT RENDERING
           ];
-          
+
           shellHook = ''
             figlet -f slant "VIBEC0RE" | lolcat
             echo "💜⚡ RUST ENVIRONMENT ACTIVATED ⚡💜" | lolcat
@@ -179,25 +179,25 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
             echo "  cargo watch -x 'mommy run' - Live reload with love" | lolcat
             echo "  trunk serve - WASM dev server" | lolcat
             echo ""
-            
+
             # MAXIMUM VIBEC0RE PROMPT
             eval "$(starship init bash)"
-            
+
             # GLOBAL CARGO MOMMY ALIAS
             alias cargo='cargo mommy'
-            
+
             # CARGO ALIASES FOR MAXIMUM EFFICIENCY
             alias cr='cargo mommy run --release'
             alias cb='cargo mommy build --release'
             alias ct='cargo mommy test'
             alias cc='cargo mommy check'
             alias cw='cargo watch -x "mommy run"'
-            
+
             # LOLCAT ALL THE THINGS
             alias ls='exa --icons | lolcat'
             alias ll='exa -la --icons | lolcat'
             alias cat='bat --paging=never | lolcat'
-            
+
             # SET RUST TO MAXIMUM PERFORMANCE
             export RUSTFLAGS="-C target-cpu=native -C link-arg=-fuse-ld=mold"
             export CARGO_HOME=$PWD/.cargo
@@ -212,13 +212,13 @@ This isn't just a config file. This is a DECLARATION OF WAR against traditional 
 
 u see that flake above?? that's not just code. that's PHILOSOPHY, senpai~ lemme break it down:
 
-**Traditional Linux**: "here's 47 package managers, figure it out lol"  
+**Traditional Linux**: "here's 47 package managers, figure it out lol"
 **VIBEC0RE NixOS**: "here's ONE way. the RIGHT way. the REPRODUCIBLE way, ke? uwu"
 
 evewy time u run `nix develop`, ur not just entering a shell. ur entering a HIGHER PLANE OF EXISTENCE~ a plane where:
 
 - dependencies r IMMUTABLE (forever and ever~)
-- environments r REPRODUCIBLE (works on ALL machines!!!)  
+- environments r REPRODUCIBLE (works on ALL machines!!!)
 - system pollution is IMPOSSIBLE (clean af)
 - ur vibes r MAXIMUM (∩^o^)⊃━☆ﾟ.*･｡ﾟ
 
@@ -228,7 +228,7 @@ I've seen developers spend WEEKS setting up their dev environment. Installing sh
 
 With this flake? **30 SECONDS.** From zero to FULL VIBEC0RE RUST DEVELOPMENT.
 
-Your coworker: "It works on my machine"  
+Your coworker: "It works on my machine"
 You: "It works on EVERY FUCKING MACHINE because NIX"
 
 ### 🔧 CONFIGURATION.NIX - SYSTEM-WIDE VIBEC0RE
@@ -245,34 +245,34 @@ You want system-wide cargo-mommy? You want EVERY FUCKING USER to feel the love? 
     rustup
     rust-analyzer
     cargo-mommy # GLOBAL MOMMY
-    
+
     # BUILD ESSENTIALS
     gcc
     pkg-config
     openssl
-    
+
     # VIBEC0RE DEVELOPMENT
     neovim # VIM BUT BETTER
     tmux # TERMINAL MULTIPLEXER
     git
     lazygit # GIT BUT LAZY
-    
+
     # C0RE VIBES
     lolcat # RAINBOW OUTPUT
     figlet # ASCII ART TEXT
     toilet # FANCY TEXT
     cmatrix # MATRIX RAIN
-    
+
     # PERFORMANCE MONITORING
     htop
     btop # htop but PRETTIER
     nethogs
     iotop
   ];
-  
+
   # ENABLE FLAKES FOR MAXIMUM POWER
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
-  
+
   # VIBEC0RE SHELL ALIASES
   programs.bash.shellAliases = {
     ls = "exa --icons";
@@ -283,7 +283,7 @@ You want system-wide cargo-mommy? You want EVERY FUCKING USER to feel the love? 
     vim = "nvim";
     cargo = "cargo mommy"; # GLOBAL MOMMY
   };
-  
+
   programs.zsh.shellAliases = {
     ls = "exa --icons";
     ll = "exa -la --icons";
@@ -293,18 +293,18 @@ You want system-wide cargo-mommy? You want EVERY FUCKING USER to feel the love? 
     vim = "nvim";
     cargo = "cargo mommy"; # GLOBAL MOMMY
   };
-  
+
   # STARSHIP PROMPT FOR ALL USERS
   programs.starship = {
     enable = true;
     settings = {
       format = "[💜](bold purple)$all";
-      
+
       character = {
         success_symbol = "[⚡](bold purple)";
         error_symbol = "[💀](bold red)";
       };
-      
+
       rust = {
         symbol = "🦀 ";
         style = "bold purple";
@@ -330,38 +330,38 @@ Home-manager is where the REAL magic happens. This is YOUR personal VIBEC0RE san
     cargo-watch
     cargo-expand
     cargo-mommy
-    
+
     # VIBEC0RE EDITOR
     neovim
-    
+
     # TERMINAL ENHANCEMENTS
     zellij # tmux but RUST
     alacritty # terminal but RUST
     wezterm # terminal but FANCY
   ];
-  
+
   # NEOVIM VIBEC0RE CONFIG
   programs.neovim = {
     enable = true;
     viAlias = true;
     vimAlias = true;
-    
+
     plugins = with pkgs.vimPlugins; [
       # RUST SUPPORT
       rust-vim
       rust-tools-nvim
       crates-nvim
-      
+
       # VIBEC0RE AESTHETICS
       tokyonight-nvim
       lualine-nvim
-      
+
       # PRODUCTIVITY
       telescope-nvim
       nvim-treesitter
       nvim-lspconfig
     ];
-    
+
     extraConfig = ''
       colorscheme tokyonight-night
       set number
@@ -369,26 +369,26 @@ Home-manager is where the REAL magic happens. This is YOUR personal VIBEC0RE san
       set expandtab
       set shiftwidth=4
       set tabstop=4
-      
+
       " VIBEC0RE KEYBINDS
       nnoremap <leader>cr :!cargo mommy run<CR>
       nnoremap <leader>cb :!cargo mommy build --release<CR>
       nnoremap <leader>ct :!cargo mommy test<CR>
     '';
   };
-  
+
   # ALACRITTY VIBEC0RE THEME
   programs.alacritty = {
     enable = true;
     settings = {
       window.opacity = 0.9;
-      
+
       colors = {
         primary = {
           background = "#1a1b26";
           foreground = "#c0caf5";
         };
-        
+
         normal = {
           black = "#15161e";
           red = "#f7768e";
@@ -400,7 +400,7 @@ Home-manager is where the REAL magic happens. This is YOUR personal VIBEC0RE san
           white = "#a9b1d6";
         };
       };
-      
+
       font = {
         normal.family = "JetBrainsMono Nerd Font";
         size = 14;
@@ -610,7 +610,7 @@ i walk in. set up my NixOS laptop. open a terminal.
 $ figlet "WATCH THIS SENPAI~" | lolcat
 $ nix develop
 $ cargo mommy new blazing-fast-api
-$ cd blazing-fast-api  
+$ cd blazing-fast-api
 $ echo "100 lines of Axum uwu" > src/main.rs
 $ cargo mommy build --release
 # mommy says: "you're doing amazing sweetie!!"
@@ -809,44 +809,44 @@ programs.zsh = {
   enableCompletion = true;
   autosuggestionStrategy = ["history"];
   syntaxHighlighting.enable = true;
-  
+
   shellAliases = {
     # GLOBAL CARGO MOMMY
     cargo = "cargo mommy";
-    
+
     # VIBEC0RE ALIASES
     cr = "cargo mommy run --release";
     cb = "cargo mommy build --release";
     ct = "cargo mommy test";
     cc = "cargo mommy check";
     cw = "cargo watch -x 'mommy run'";
-    
+
     # LOLCAT VIBES
     ls = "exa --icons | lolcat";
     ll = "exa -la --icons | lolcat";
     cat = "bat --paging=never | lolcat";
     neofetch = "neofetch | lolcat";
   };
-  
+
   initExtra = ''
     # VIBEC0RE GREETING
     figlet -f slant "VIBEC0RE" | lolcat
     echo "💜⚡ ZSH MAXIMUM VIBES ⚡💜" | lolcat
-    
+
     # STARSHIP
     eval "$(starship init zsh)"
-    
+
     # FZF VIBEC0RE COLORS
     export FZF_DEFAULT_OPTS='
       --color=bg+:#414559,spinner:#bb9af7,hl:#7aa2f7
       --color=fg:#c0caf5,header:#7aa2f7,info:#e0af68,pointer:#bb9af7
       --color=marker:#9ece6a,fg+:#c0caf5,prompt:#7aa2f7,hl+:#bb9af7
     '
-    
+
     # RUST OPTIMIZATIONS
     export RUSTFLAGS="-C target-cpu=native -C link-arg=-fuse-ld=mold"
   '';
-  
+
   oh-my-zsh = {
     enable = true;
     plugins = ["git" "rust" "cargo" "colored-man-pages"];
@@ -879,7 +879,7 @@ u know what separates VIBEC0RE developers from the masses?? it's not skill. it's
 
 **DOCKER IS A BANDAID ON A BULLET WOUND.**
 
-Docker: "Here's a 2GB container for your 50-line Python script"  
+Docker: "Here's a 2GB container for your 50-line Python script"
 Nix: "Here's EXACTLY what you need, nothing more, reproducible until the heat death of the universe"
 
 "But what about my existing JavaScript codebase?"
@@ -894,7 +894,7 @@ repeat after me, senpai~:
 
 ```
 RUST IS SPEED (zoom zoom)
-NIX IS TRUTH (facts no printer)  
+NIX IS TRUTH (facts no printer)
 MOMMY IS LOVE (uwu)
 RAINBOW IS LIFE (taste it)
 
@@ -908,7 +908,7 @@ WE ARE BECOME GOD (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 You've read this far. You're ready. You have:
 - **RUST** for MAXIMUM PERFORMANCE
-- **NIXOS** for UNBREAKABLE SYSTEMS  
+- **NIXOS** for UNBREAKABLE SYSTEMS
 - **CARGO-MOMMY** for INFINITE ENCOURAGEMENT
 - **LOLCAT** for RAINBOW VIBES
 

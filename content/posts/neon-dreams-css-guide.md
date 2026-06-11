@@ -9,7 +9,7 @@ categories: ["Tutorials", "Design"]
 featured: true
 ---
 
-# Painting with Light: The CSS Cyberpunk Manifesto
+Painting with Light: The CSS Cyberpunk Manifesto
 
 In the digital realm, we are not bound by the physics of the material world. We can make text **glow like neon signs**, backgrounds **pulse with electric energy**, and interfaces that feel like **touching the Matrix itself**.
 
@@ -21,9 +21,9 @@ In the digital realm, we are not bound by the physics of the material world. We 
 :root {
   /* The holy trinity of cyber colors */
   --matrix-green: #00ff41;
-  --cyber-pink: #ff007f;  
+  --cyber-pink: #ff007f;
   --electric-cyan: #00ffff;
-  
+
   /* Background depths */
   --void-black: #000000;
   --deep-space: #001100;
@@ -38,13 +38,13 @@ The secret to authentic cyberpunk aesthetics lies in **layered glows**:
 ```css
 .neon-text {
   color: var(--matrix-green);
-  text-shadow: 
+  text-shadow:
     0 0 5px currentColor,
     0 0 10px currentColor,
     0 0 15px currentColor,
     0 0 20px currentColor,
     0 0 40px currentColor;
-  
+
   font-family: 'Courier New', monospace;
   font-weight: bold;
   text-transform: uppercase;
@@ -58,7 +58,7 @@ Every cyberpunk interface needs the underlying **digital scaffolding**:
 
 ```css
 .matrix-grid {
-  background-image: 
+  background-image:
     linear-gradient(rgba(0, 255, 65, 0.1) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 65, 0.1) 1px, transparent 1px);
   background-size: 40px 40px;
@@ -103,9 +103,9 @@ Buttons in the Matrix don't just click - they **interface with your soul**:
 
 ```css
 .cyber-button {
-  background: linear-gradient(45deg, 
-    var(--cyber-pink), 
-    var(--electric-cyan), 
+  background: linear-gradient(45deg,
+    var(--cyber-pink),
+    var(--electric-cyan),
     var(--matrix-green)
   );
   border: 2px solid transparent;
@@ -129,9 +129,9 @@ Buttons in the Matrix don't just click - they **interface with your soul**:
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, 
-    transparent, 
-    rgba(255, 255, 255, 0.4), 
+  background: linear-gradient(90deg,
+    transparent,
+    rgba(255, 255, 255, 0.4),
     transparent
   );
   transition: left 0.5s ease;
@@ -142,7 +142,7 @@ Buttons in the Matrix don't just click - they **interface with your soul**:
 }
 
 .cyber-button:hover {
-  box-shadow: 
+  box-shadow:
     0 0 20px var(--cyber-pink),
     0 0 40px var(--electric-cyan),
     0 0 60px var(--matrix-green);

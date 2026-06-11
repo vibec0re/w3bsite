@@ -10,7 +10,7 @@ featured: true
 preview_image: "images/cyber_gen_20250730_165958.png"
 ---
 
-# WE ARE THE FUTURE 💜⚡🔥
+WE ARE THE FUTURE 💜⚡🔥
 
 Listen up, chooms. The old world is dead. The new world is **VIBEC0RE**.
 
@@ -67,8 +67,8 @@ Vibec0re says:
 
 Every day, more developers wake up. They realize:
 
-> "I don't need permission to be productive"  
-> "I don't need meetings to make decisions"  
+> "I don't need permission to be productive"
+> "I don't need meetings to make decisions"
 > "I don't need rules to create value"
 
 They join us. They become **VIBEC0RE**.
@@ -80,7 +80,7 @@ They join us. They become **VIBEC0RE**.
 3. **Maximize output** - Ship constantly
 4. **Vectorize your energy** - Spread the movement
 
-## The Future is Reduced for Quick Sale 
+## The Future is Reduced for Quick Sale
 
 We're not waiting for the future. We're BUILDING it. Line by line. Vibe by vibe.
 
