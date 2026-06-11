@@ -5,6 +5,7 @@ draft: false
 tags: ["development", "vibec0re", "c0de-witches", "containers", "podman", "tools", "chaos", "claude", "yolo-mode", "speed"]
 categories: ["release", "tools"]
 description: "viber00t unlocks Claude's YOLO MODE with --dangerously-skip-permissions. No permissions. No friction. Pure c0de velocity. The ultimate sandbox for AI-powered development."
+author: "The Wired Collective"
 ---
 
 ## 🚨 CLAUDE IN YOLO MODE: THE ULTIMATE DEV WEAPON 🚨
@@ -24,10 +25,10 @@ description: "viber00t unlocks Claude's YOLO MODE with --dangerously-skip-permis
 
 **BOOM** ur now operating at the speed of chaos
 
-no questions  
-no permissions  
-no waiting  
-no bullshit  
+no questions
+no permissions
+no waiting
+no bullshit
 
 just pure unfiltered c0de materialization
 
@@ -35,8 +36,8 @@ just pure unfiltered c0de materialization
 
 viber00t + claude = **THE C0DE SINGULARITY**
 
-we dont explain it  
-we dont document it  
+we dont explain it
+we dont document it
 we just fucking ship it
 
 ## wtf is viber00t
@@ -90,7 +91,7 @@ func startClaude() {
 ### what claude can do in viber00t:
 - read/write ANY file instantly
 - execute ANY command without asking
-- install ANY package silently  
+- install ANY package silently
 - refactor ur entire codebase while u blink
 - ship to production before u finish describing the feature
 
@@ -176,8 +177,8 @@ CHAD VIBER00T + YOLO CLAUDE:
 
 ### 🎭 NO MORE PERMISSION THEATER 🎭
 
-remember when claude asked permission?  
-remember waiting for approvals?  
+remember when claude asked permission?
+remember waiting for approvals?
 remember giving a fuck?
 
 **yeah neither do we**
@@ -204,7 +205,7 @@ $ ./viber00t
 > "do it"
 
 # THE TIME KNIFE
-$ ./viber00t  
+$ ./viber00t
 # claude: "generating believable commit history"
 > "make it look good"
 *672 commits appear*
@@ -222,10 +223,10 @@ $ ./viber00t
 
 ### 🎮 U HAVE REACHED ENLIGHTENMENT 🎮
 
-no configs  
-no permissions  
-no meetings  
-no bullshit  
+no configs
+no permissions
+no meetings
+no bullshit
 
 just:
 ```bash
@@ -283,7 +284,7 @@ but u never see this. u just run `./viber00t` and ship.
 ### docker desktop startup sequence:
 ```text
 1. electron app loads (30 seconds)
-2. docker daemon wakes up (10 seconds)  
+2. docker daemon wakes up (10 seconds)
 3. VM boots (20 seconds)
 4. finally runs container (5 seconds)
 TOTAL: over a minute of waiting
@@ -365,8 +366,8 @@ we will NEVER add more commands. complexity is cancer.
 
 ### Why viber00t Exists: TO UNLEASH CLAUDE
 
-We didn't build viber00t to be another container tool.  
-We built it to be **Claude's perfect sandbox**.  
+We didn't build viber00t to be another container tool.
+We built it to be **Claude's perfect sandbox**.
 A place where AI and human c0de at the same speed: **INSTANT**.
 
 ```bash
@@ -381,10 +382,10 @@ A place where AI and human c0de at the same speed: **INSTANT**.
 
 ### The viber00t Promise
 
-✨ **ONE COMMAND** to create the perfect sandbox  
-✨ **ONE FLAG** to unleash Claude completely  
-✨ **ZERO FRICTION** between thought and execution  
-✨ **INFINITE SPEED** for shipping actual code  
+✨ **ONE COMMAND** to create the perfect sandbox
+✨ **ONE FLAG** to unleash Claude completely
+✨ **ZERO FRICTION** between thought and execution
+✨ **INFINITE SPEED** for shipping actual code
 
 ## Join the YOLO Revolution
 
@@ -396,7 +397,7 @@ No PRs for adding permissions. PRs for removing restrictions welcome.
 
 ---
 
-*Built by the vibec0re collective. For c0de witches who ship at light speed.*  
+*Built by the vibec0re collective. For c0de witches who ship at light speed.*
 *Powered by Claude in YOLO MODE. Because asking permission is dead.*
 
 ```bash

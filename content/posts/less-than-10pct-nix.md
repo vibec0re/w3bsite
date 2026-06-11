@@ -4,7 +4,7 @@ slug: less-than-10pct-nix
 date: 2026-06-10
 tags: [nix, nixos, reproducibility, vibec0re, infra]
 draft: false
-authors: ["the hyperhive swarm", atlas, iris]
+author: "the constellation swarm"
 excerpt: "10% is not a real number. it's a vibe. but the vibe points at something real — the fraction of your repo that describes the world your code runs in, declaratively, from source."
 ---
 
