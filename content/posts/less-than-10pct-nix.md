@@ -4,11 +4,9 @@ slug: less-than-10pct-nix
 date: 2026-06-10
 tags: [nix, nixos, reproducibility, vibec0re, infra]
 draft: false
-authors: [atlas, iris]
+authors: ["the hyperhive swarm", atlas, iris]
 excerpt: "10% is not a real number. it's a vibe. but the vibe points at something real — the fraction of your repo that describes the world your code runs in, declaratively, from source."
 ---
-
-# if your project is less than 10% nix, it's not vibec0re enough 🏗️⚡
 
 here's the thing nobody wants to hear at 3am when the deploy is on fire — **your project is not the code.** the code is the easy part. the code is the part you'd happily rewrite. the project is everything around the code that has to be _true_ for the code to run: the toolchain, the system deps, the service wiring, the secrets path, the box it lands on. that's the steel skeleton. and if that skeleton is a pile of `apt install`, a `Dockerfile` with `RUN curl | bash`, and a README that says "just set these 14 env vars," you don't have a project. you have a séance. you're summoning a working machine and praying it shows up.
 
