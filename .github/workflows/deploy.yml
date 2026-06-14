@@ -1,0 +1,60 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Only need to read this repo; the cross-repo publish uses PAGES_DEPLOY_TOKEN.
+permissions:
+  contents: read
+
+concurrency:
+  group: blog-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout source
+        uses: actions/checkout@v5
+
+      - name: install nix
+        uses: DeterminateSystems/nix-installer-action@main
+
+      - name: build site (flake dist target → minified static html)
+        run: nix build -L .#dist
+
+      - name: publish to vibec0re.github.io
+        env:
+          # fine-grained PAT, scoped to vibec0re/vibec0re.github.io with Contents: read & write
+          GH_TOKEN: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::secret PAGES_DEPLOY_TOKEN is not set — see w3bsite/.github/workflows/deploy.yml header"
+            exit 1
+          fi
+
+          git clone --depth 1 \
+            "https://x-access-token:${GH_TOKEN}@github.com/vibec0re/vibec0re.github.io.git" out
+
+          # wipe everything except .git and .github (the Pages workflow lives in the output repo)
+          find out -mindepth 1 -maxdepth 1 ! -name .git ! -name .github -exec rm -rf {} +
+          # nix build output is a read-only store symlink; deref-copy then make writable
+          cp -rL result/. out/
+          chmod -R u+w out
+
+          cd out
+          git add -A
+          if git diff --cached --quiet; then
+            echo "==> no changes to publish"
+            exit 0
+          fi
+          git -c user.name="vibec0re-ci" \
+              -c user.email="ci@users.noreply.github.com" \
+              commit -m "publish: w3bsite@${GITHUB_SHA}"
+          # PAT push (not GITHUB_TOKEN) → triggers the output repo's Pages workflow
+          git push origin HEAD:main
+          echo "==> published; vibec0re.github.io Pages deploy will run next"
